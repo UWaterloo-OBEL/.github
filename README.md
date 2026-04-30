@@ -1,6 +1,6 @@
 # Welcome to the Occupational Biomechanics and Ergonomics Lab
 
-![OBEL Logo](assets\obel-uwaterloo_logo-teal.png)
+![OBEL Logo](/assets/obel-uwaterloo_logo-teal.png)
 
 *The Occupational Biomechanics and Ergonomics Lab (OBEL) is a nexus for research to optimize human performance in the workplace.*  
 
